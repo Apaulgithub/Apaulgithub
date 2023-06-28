@@ -19,6 +19,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/arindam-paul-19a085187" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arindam-paul-19a085187" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/aripaul05?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aripaul05?hr_r=1" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/apaulkaggle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="apaulkaggle" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
