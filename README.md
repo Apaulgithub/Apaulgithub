@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **Machine Learning projects**
 
-- 🌱 I’m currently learning **ML Algorithms, Neural Networks etc.**
+- 🌱 I’m currently learning **ML Algorithms, Deep Learning etc.**
 
-- 💬 Ask me about **Python, SQL**
+- 💬 Ask me about **Python, SQL, Machine Learning**
 
 - 📫 How to reach me **paularindam.ds@gmail.com**
 
