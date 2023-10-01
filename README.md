@@ -1,6 +1,6 @@
 ![MasterHead](https://media.licdn.com/dms/image/C4D12AQESj72-s5gEKg/article-cover_image-shrink_600_2000/0/1626753867110?e=2147483647&v=beta&t=Kf7YAuwZtyCGYLNch-Mgc5eOC-7h7uL_dnBAIgsAFRQ)
 <h1 align="center">Hi 👋, I'm Arindam Paul</h1>
-<h3 align="center">A passionate Data Science Enthusiast</h3>
+<h3 align="center">An Aspiring Data Scientist</h3>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnpqa251ODF4ZW5uZzNwaG5tYW5mbjByZ3d5bmN6OWsxOGUzaHI3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apaulgithub&label=Profile%20views&color=0e75b6&style=flat" alt="apaulgithub" /> </p>
@@ -19,7 +19,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/arindam-paul-19a085187" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arindam-paul-19a085187" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/aripaul05?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aripaul05?hr_r=1" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/apaulkaggle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="apaulkaggle" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
