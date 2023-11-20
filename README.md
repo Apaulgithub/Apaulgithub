@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/arindam-paul-19a085187" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arindam-paul-19a085187" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/arindam-paul-ds/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arindam-paul-ds" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/aripaul05?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aripaul05?hr_r=1" height="30" width="40" /></a>
 <a href="https://www.novypro.com/profile_projects/arindampaul" target="blank"><img align="center" src="https://global.discourse-cdn.com/standard17/uploads/novypro/original/1X/2e9506ba77954a9e3f4761b94b606c3a261985ec.png" alt="arindampaul" height="30" width="40" /></a>
 </p>
